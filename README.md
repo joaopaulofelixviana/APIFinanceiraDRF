@@ -29,6 +29,10 @@ Construir uma API REST robusta e bem estruturada para controle financeiro pessoa
 - **PostgreSQL** (ou SQLite, dependendo da configuração)
 - Organização seguindo princípios do **Repository Pattern**
 
+## Instalação
+
+```bash
+
 # Clone o projeto
 git clone https://github.com/joaopaulofelixviana/APIFinanceiraDRF.git
 cd projeto-financeiro
@@ -46,3 +50,4 @@ python manage.py migrate
 
 # Inicie o servidor
 python manage.py runserver
+
